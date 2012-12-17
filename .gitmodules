@@ -1,0 +1,3 @@
+[submodule "snoopys-sandbox-2"]
+	path = snoopys-sandbox-2
+	url = git://github.com/openmicroscopy/snoopys-sandbox-2
